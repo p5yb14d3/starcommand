@@ -1,0 +1,29 @@
+[[Orbital Distance:]] 778,547,200 km (5.2043 AU)
+
+[[Orbital Period:]] 4,331.572 days 11.85920 yr
+
+[[Average speed:]] 13.07 km/s
+
+[[Mean anomaly:]] 18.818°
+
+[[Inclination:]] 1.305° to Ecliptic 6.09° to Sun's equator 0.32° to Invariable plane
+
+[[Natural satellites:]] 69
+
+[[Average radius:]] 69,911±6 km 
+
+[[Surface area:]] 6.21796×1010 km² 121.9 Earths
+
+[[Volume:]] 1.43128×1015 km³ 1321.3 Earths
+
+[[Mass:]] 1.8986×1027 kg 317.83 Earths
+
+[[Average density:]] 1.326 g/cm³
+
+[[Surface gravity:]] 24.79 m/s² 2.528 g
+
+[[Escape velocity:]] 59.5 km/s
+
+[[Turning speed:]] 12.6 km/s 45,300 km/h
+
+[[Surface temp:]] 1 bar level: 165 K (Avg); 0.2 bar: 112 K (Avg)

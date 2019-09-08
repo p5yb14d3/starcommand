@@ -1,0 +1,25 @@
+[[Orbital Distance:]] 108,208,930 km 0.723 332 AU
+
+[[Orbital Period:]] 224.700 69 day 0.615 197 0 yr 1.92 Venus solar day
+
+[[Average speed:]] 35.02 km/s
+
+[[Natural satellites:]] None
+
+[[Average radius:]] 6,051.8 ± 1.0 km 0.949 9 Earths
+
+[[Surface area:]] 4.60×108 km² 0.902 Earths
+
+[[Volume:]] 9.38×1011 km³ 0.857 Earths
+
+[[Mass:]] 4.868 5×1024 kg 0.815 Earths
+
+[[Average density:]] 5.204 g/cm³
+
+[[Surface gravity:]] 8.87 m/s2 0.904 g
+
+[[Escape velocity:]] 10.46 km/s
+
+[[Turning speed:]] 6.52 km/h (1.81 m/s)
+
+[[Surface temp:]] Kelvin 735 K (Avg) Celsius 461.85 °C (Avg)

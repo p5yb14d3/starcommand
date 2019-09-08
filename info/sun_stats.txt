@@ -1,0 +1,43 @@
+[[Average distance from Earth:]] 1.496×108 km 8 min 19 s at light speed
+
+[[Visual brightness (V):]] −26.74
+
+[[True brightness:]] 4.83
+
+[[Angular size:]] 31.6–32.7′
+
+[[Adjective:]] Solar
+
+[[Average distance from Milky Way center:]] ≈ 2.7×1017 km 27,200 light-years
+
+[[Obliquity:]] 7.25°(to the ecliptic)
+
+[[Rotation velocity:]] 7.189×103 km/h
+
+[[Equatorial radius:]] 696,342±65 km 109 × Earth
+
+[[Equatorial circumference:]] 4.379×106 km 109 × Earth
+
+[[Flattening:]] 9×10−6
+
+[[Surface area:]] 6.09×1012 km2 12,000 × Earth
+
+[[Volume:]] 1.41×1018 km3 1,300,000 × Earth
+
+[[Mass:]] (1.98855±0.00025)×1030 kg 333,000 × Earth
+
+[[Average density:]] 1.408 g/cm3 0.255 × Earth
+
+[[Surface gravity:]] 274.0 m/s2 27.94 g 27,542.29 cgs 28 × Earth
+
+[[Escape velocity:]](from the surface)	617.7 km/s 55 × Earth
+
+[[Temperature:]] Center: 1.57×107 K
+
+[[Photosphere:]] 5,778 K
+
+[[Corona:]] ≈ 5×106 K
+
+[[Luminosity (Lsol):]] 3.846×1026 W
+
+[[Age:]] ≈4.6 billion years

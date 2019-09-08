@@ -1,0 +1,29 @@
+[[Orbital Distance:]] 227,939,100 km 1.523 679 AU
+
+[[Orbital Period:]] 686.971 days 1.8808 Earth years 668.5991 sols (Martian days)
+
+[[Average speed:]] 24.077 km/s
+
+[[Natural satelites:]] 2
+
+[[Average radius:]] 3,389.5±0.2 km?
+
+[[Surface area:]] 144,798,500 km² 0.284 Earths
+
+[[Volume:]] 1.6318×1011 km³ 0.151 Earths
+
+[[Mass:]] 6.4185×1023 kg 0.107 Earths
+
+[[Average density:]] 3.934 g/cm³
+
+[[Escape velocity:]] 5.027 km/s
+
+[[Turning speed:]] 868.22 km/h (241.17 m/s)
+
+[[Surface temp:]] 
+Kelvin 186 K(Min)	227 K(Avg) 	268 K(Max)
+Celsius	-87 °C(Min)	-46 °C(Avg)	-5 °C(Max)
+
+[[Seeming brightness:]] +1.8 to -2.91
+
+[[Atmosphere Pressure:]] 0.6–1.0 kPa

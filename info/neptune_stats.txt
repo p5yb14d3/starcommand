@@ -1,0 +1,27 @@
+[[Orbital Distance:]] 4,503,443,661 km 30.10366151 AU
+
+[[Orbital Period:]] 60,190 days 164.79 years 89,666 Neptune solar days
+
+[[Average speed:]] 5.43 km/s
+
+[[Inclination:]] 1.767975° to Ecliptic 6.43° to Sun’s equator 0.72° to Invariable plane
+
+[[Natural satellites:]] 13
+
+[[Average radius:]] 24,622±19 km 
+
+[[Surface area:]] 7.6408×109 km² 14.98 Earths
+
+[[Volume:]] 6.254×1013 km³ 57.74 Earths
+
+[[Mass:]] 1.0243×1026 kg 17.147 Earths
+
+[[Average density:]] 1.638 g/cm³
+
+[[Surface gravity:]] 11.15 m/s² 1.14 g
+
+[[Escape velocity:]] 23.5 km/s
+
+[[Turning speed:]] 2.68 km/s 9,660 km/h
+
+[[Surface temp.:]] 1 bar level:72 K (Avg); 0.1 bar (10 kPa) 55 K (Avg)

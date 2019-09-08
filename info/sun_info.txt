@@ -1,0 +1,44 @@
+[[Information:]] The Sun in the center of our solar system is a yellow dwarf star. It gives off energy as light. That includes light, infra-red energy (heat), ultraviolet light and radio waves. It also gives off a stream of particles, which reaches Earth as "solar wind". The source of all this energy is the reaction in the star which turns hydrogen into helium and makes huge amounts of energy.
+
+The Sun is a star like many others in our Milky Way galaxy. It has existed for a little over 4.5 billion years, and is going to continue for at least as long. The Sun is about a hundred times as wide as the Earth. It has a mass of 1.9891×1030 kg, which is 333,000 times the mass of the Earth. The Earth can also fit inside the Sun 1.3 million times.
+
+[[Origin:]] Scientists think that the Sun started from a very large cloud of dust and small bits of ice about 4.567 billion years ago.
+
+At the center of that huge cloud, gravity caused the material to build up into a ball. Once this got big enough, the huge pressure inside started a fusion reaction. The energy this released caused that ball to heat and shine.
+
+The energy radiated from the Sun pushed away the rest of the cloud from itself, and the planets formed from the rest of this cloud 
+
+[[How it works:]] At its very center, hydrogen atoms collide together at great temperature and pressure so that they fuse to form atoms of helium. This process is called nuclear fusion.
+
+[[Orbit:]] The sun and everything that orbits it is located in the Milky Way. As the sun orbits it takes everything in the solar system. The sun moves at 820,000 km an hour. At that speed its still 230 million years for a full orbit.
+
+[[Visible features:]] Since the Sun is all gas, surface features come and go. If the Sun is viewed through a special solar telescope, dark areas called sunspots can be seen. These areas are caused by the Sun's magnetic field. The sunspots only look dark because the rest of the Sun is very bright.
+
+Some space telescopes, including the ones that orbit the Sun have seen huge arches of the Sun's matter extend suddenly from the Sun. These are called solar prominences. Solar prominences come in many different shapes and sizes. Some of them are so large that the Earth could fit inside of them, and a few are shaped like hands. Solar flares also come and go.
+
+Sunspots, prominences and flares become rare, and then numerous, and then rare again, every 11 years.
+
+[[Photosphere:]] This is the surface of the Sun. The light that the Earth receives from the Sun is radiated from this layer. Below this layer, the Sun is opaque, or not transparent to light.
+
+[[Atmosphere:]] Five layers make up the atmosphere of the Sun. The chromosphere, transition region, and corona are much hotter than the outer photosphere surface of the Sun. It is believed that Alfvén waves may pass through to heat the corona.
+
+The minimum temperature zone, the coolest layer of the Sun, is about 500 km above the photosphere. It has a temperature of about 4100 K. This part of the Sun is cool enough to allow simple molecules such as carbon monoxide and water to form. These molecules can be seen on the Sun with special instruments called spectroscopes.
+
+The chromosphere is the first layer of the Sun which can be seen, especially during a solar eclipse when the moon is covering most of the Sun and blocking the brightest light.
+
+The solar transition region is the part of the Sun's atmosphere, between the chromosphere and outer part called the corona. It can be seen from space using telescopes that can sense ultraviolet light. The transition is between two very different layers. In the bottom part it touches the photosphere and gravity shapes the features. At the top, the transition layer touches the corona.
+
+The corona is the outer atmosphere of the Sun and is much bigger than the rest of the Sun. The corona continuously expands into space forming the solar wind, which fills all the Solar System. The average temperature of the corona and solar wind is about 1,000,000–2,000,000 K. In the hottest regions it is 8,000,000–20,000,000 K. We do not understand why the corona is so hot. It can be seen during a solar eclipse or with an instrument called a coronagraph.
+
+The heliosphere is the thin outer atmosphere of the Sun, filled with the solar wind plasma. It extends out past the orbit of Pluto to the heliopause, where it forms a boundary where it collides with the interstellar medium.
+
+[[Eclipses:]] A solar eclipse appears when the moon is between the Earth and Sun. The last partial eclipse seen in Britain was on the 21st of August, 2017.
+
+A lunar eclipse happens when the moon passes through the shadow of the Earth which can only occur during a full moon.The number of lunar eclipses in a single year can range from 0 to 3. Partial eclipses slightly outnumber total eclipses by 7 to 6.
+
+[[Fate of the Sun:]] Astrophysicists say our Sun is a G-type main-sequence star in the middle of its life. In a billion years or so, increased solar energy will boil away the Earth's atmosphere and oceans. In a few more billion years, they think the Sun will get bigger and become a red giant star. The Sun would be up to 250 times its current size, as big as 1.4 AU and will swallow up the earth.
+
+Earth's fate is still a bit of a mystery. In the long term, the Earth's future depends on the Sun, and the Sun is going to be fairly stable for the next 5 billion years. Calculations suggest that the Earth might move to a wider orbit. This is because about 30% of the Sun's mass will blow away in the solar wind. However, in the very long term the Earth will probably be destroyed as the Sun increases in size. Stars like the Sun become red giants at a later stage. The Sun will expand beyond orbits of Mercury, Venus, and probably Earth. In any event, the Earth's ocean and air would have vanished before the Sun gets to that stage.
+
+After the Sun reaches a point where it can no longer get bigger, it will lose its layers and form a planetary nebula. Eventually, the Sun will shrink into a white dwarf. Then, over several hundred billion or even a trillion years, the Sun would fade into a black dwarf. 
+<br><br><br>Original material from <a href="https://simple.wikipedia.org/wiki/Sun">Wikipedia</a>, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>.

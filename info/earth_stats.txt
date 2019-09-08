@@ -1,0 +1,23 @@
+[[Orbital distance:]] 149,597,887.5 km 1.0000001124 AU
+
+[[Orbital period:]] 365.256366 days 1.0000175 yr
+
+[[Average speed:]] 29.783 km/s 107,218 km/h
+
+[[Inclination:]] 1°34'43.3"
+
+[[Average radius:]] 6,371.0 km (3,958.8 mi)
+
+[[Surface area:]] 510,072,000 km²
+
+[[Volume:]] 1.08321 × 10¹² km³
+
+[[Mass:]] 5.9736 × 1024 kg
+
+[[Average density:]] 5.515 g/cm³
+
+[[Surface gravity:]] 0.99732 g
+
+[[Escape velocity:]] 11.186 km/s
+
+[[Avg. surface temp.:]] 14°C

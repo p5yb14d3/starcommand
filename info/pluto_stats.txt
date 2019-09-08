@@ -1,0 +1,27 @@
+[[Orbital Distance:]] 5,906,376,272 km 39.481 686 77 AU
+
+[[Orbital Period:]] 90,613.305 days 248.09 years 14,164.4 Pluto solar days[1]
+
+[[Average speed:]] 4.666 km/s
+
+[[Inclination:]] 17.141 75° 11.88° to Sun's equator
+
+[[Natural satellites:]]	5
+
+[[Average radius:]] 1,187 ± 4 km[2] 0.18 Earths
+
+[[Surface area:]] 1.665×107 km² 0.033 Earths
+
+[[Volume:]] 6,39×109 km³[note 3] 0.0059  Earths
+
+[[Mass:]] (1.305 ± 0.007)×1022 kg[3] 0.002 1 Earths 0.178 moon
+
+[[Average density:]] 2.03 ± 0.06 g/cm³[3]
+
+[[Surface gravity:]] 0.658 m/s²[note 4] 0.067 g
+
+[[Escape velocity:]] 1.229 km/s[note 5]
+
+[[Turning speed:]] 47.18 km/h
+
+[[Surface temp.:]] 33 K(Min) 44 K(Avg) 55 K(Max)

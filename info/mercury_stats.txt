@@ -1,0 +1,22 @@
+[[Orbital distance:]] 57,909,100 km
+
+[[Orbital Period:]] 87.969 days
+
+[[Average speed:]] 47.87 km/s
+
+[[Average radius:]] 2,439 km (0.3829 Earths)
+
+[[Surface area:]] 7.48×107 km² (0.147 Earths)
+
+[[Volume:]] 6.083×1010 km³ (0.054 Earths)
+
+[[Mass:]] 3.3022×1023 kg (0.055 Earths)
+
+[[Average density:]] 5.427 g/cm³
+
+[[Surface gravity:]] 3.7 m/s² 0.38 g
+
+[[Escape velocity:]] 4.25 km/s
+
+[[Turning speed:]] 10.892 km/h (3.026 m/s)
+
