@@ -20,13 +20,16 @@ body {
     display: block;
     margin-bottom: 5px;
 
-    font-family: 'Abel', sans-serif;
-    font-family: 'VT323', sans-serif;
+
+    font-family: "Source Sans Pro", sans-serif;
+	font-weight:bold;
 
     color: #bd998d; /* light orange */
     color: #a9d4d2; /* light blue */
 	color: #ba8db5; /* light pink */
     color: #9da4d8; /* light purple */
+	color: #9a95bd96;
+	color: #bd998d96;
     
 
     padding-left: 15px;
@@ -37,8 +40,10 @@ body {
     -webkit-stroke-color: #FFFFFF;
     -webkit-fill-color: #FFFFFF;
     text-shadow: 1px 0 20px #ba8db5;
+	text-shadow: 1px 0 20px #97693f8a;
 
     background-color: rgb(100,100,100,0);
+	text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.5);
 }
 
 .glow {
@@ -57,20 +62,19 @@ body {
     box-shadow: 0 0 10px #9ecaed;
 }
 
-.textbox > div {
-    font-family: 'Russo One', sans-serif;
-    font-family: 'Abel', sans-serif;
-    font-family: 'VT323', sans-serif;
-    font-weight: bold;
+.textbox > span {
     color: #b6705a;
     /* sat orange */
     color: #dabd7a;
     /* white orange */
+	
     color: #db681f;
+	color: #db681f9c;
 
-    font-size: 120%;
     border: 0 solid blue;
     display: inline-block;
+	
+	text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.5);
 }
 .textcontainer {
     position: absolute;
@@ -86,12 +90,11 @@ body {
 }
 
 .textbox_L {
-    font-size: 200%;
     border: 0px solid brown;
     padding: 2%;
+	line-height:130%;
 }
 .textbox_R {
-    font-size: 200%;
     padding: 2%;
 }
 #textcontainer_L {

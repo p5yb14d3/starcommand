@@ -10,6 +10,10 @@
  *   2. Redistributions in binary form must reproduce the above copyright
  *   notice, this list of conditions and the following disclaimer in the
  *   documentation and/or other materials provided with the distribution.
+ *
+ *   3. Audio and sound files cannot be redistributed.
+ *
+ * https://github.com/p5yb14d3/starcommand
  */
  
 var ui;
@@ -547,7 +551,7 @@ function classSpace(ui) {
 	this.showSolarSystem = function(allowSound) {
 		if ($('#universe').is(":hidden")) {
 			if (allowSound) {audioPlay("switch");}
-			$("h1").html("The Solar System");
+			// $("h1").html("The Solar System");
 			$('#universe').show();
 			$('#controls').show();
 			controls.enabled = true;
@@ -622,7 +626,7 @@ function classHUD(iUI) {
 	var RPage = -1;
 	var RPageCount = 0;
 	this.visible = false;
-	this.font_size_limit = 200; // FONT SIZE IN PERCENTAGE
+	this.font_size_limit = 150; // FONT SIZE IN PERCENTAGE
 
 	this.init = function() {
 		this.createTextBox("L", 0, "");
@@ -634,7 +638,7 @@ function classHUD(iUI) {
 		$('#textcontainer_R').hide();
 		$('#textcontainer_L').hide();
 		$('.line').hide();
-		$('h1').hide();
+		// $('h1').hide();
 	};
 
 	this.reset = function() {
@@ -657,8 +661,8 @@ function classHUD(iUI) {
 	};
 		
 	this.onFileReceivedInfo = function(data) {
-		data = data.replaceAll("[[", "<div>");
-		data = data.replaceAll("]]", "</div>");
+		data = data.replaceAll("[[", "<span>");
+		data = data.replaceAll("]]", "</span>");
 		var infoArray = data.split("\r\n\r\n");
 		if (infoArray.length == 1) infoArray = data.split("\n\n");
 		info[ui.space.object_name] = infoArray;
@@ -670,8 +674,8 @@ function classHUD(iUI) {
 	};
 
 	this.onFileReceivedStats = function(data) {
-		data = data.replaceAll("[[", "<div>");
-		data = data.replaceAll("]]", "</div>");
+		data = data.replaceAll("[[", "<span>");
+		data = data.replaceAll("]]", "</span>");
 		var statsArray = data.split("\r\n\r\n");
 		if (statsArray.length == 1) statsArray = data.split("\n\n");
 		stats[ui.space.object_name] = statsArray;
@@ -758,7 +762,8 @@ function classHUD(iUI) {
 			
 		// MAKE ALL FONTS SAME SIZE
 		for (i=0; i < 6; i ++) {
-			$("#textbox_R"+i).css("font-size", this.limitSize(smallest_size,200)+"%");
+			$("#textbox_R"+i).css("font-size", this.limitSize(smallest_size,100)+"%");
+			$("#textbox_L").css("font-size", this.limitSize(smallest_size,100)+"%");
 			}
 		// UPDATE LINES
 		for (i=0; i < 6; i ++) {
@@ -983,7 +988,7 @@ function classUI() {
 	this.showHoverClicked = function() {
 		this.hideMenu(); 
 		this.highlightButtonColor('.fs-hover');
-		$("h1").html(toProperCase(ui.space.object_name));
+		//$("h1").html(toProperCase(ui.space.object_name));
 		space.showHover();
 	}
 	
@@ -1003,7 +1008,7 @@ function classUI() {
 		if (typeof iobject_name !== "undefined") space.object_name = iobject_name;
 		this.hideMenu(); 
 		this.highlightButtonColor('.fs-planet');
-		$("h1").html(toProperCase(space.object_name));
+		//$("h1").html(toProperCase(space.object_name));
 		$("#selector_label").html(space.object_name.toUpperCase());
 		if ((this.hud.visible) || (typeof this.hud.visible === "undefined")) {
 			$(".line").show();
@@ -1094,7 +1099,7 @@ function classUI() {
 				$('#textcontainer_R').hide();
 				$('#textcontainer_L').hide();
 				$('.line').hide();
-				$('h1').hide();
+				//$('h1').hide();
 			}
 			else {
 				
@@ -1102,7 +1107,7 @@ function classUI() {
 				this.highlightTopButtonColor(".fs-hud", "#8f99ba");
 				ui.hud.loadInfoAndStats(space.object_name);
 				$('.line').show();
-				$('h1').show();
+				//$('h1').show();
 			}
 			audioPlay("button-click");
 		}
@@ -1157,7 +1162,7 @@ function classUI() {
 	
 	function selectedItemChanged(value) {
 		if ((value != space.object_name) && (typeof value !== "undefined")) {
-			$("h1").html(toProperCase(value));
+			// $("h1").html(toProperCase(value));
 			audioPlay("beep"); 
 			if ($('#universe').is(":hidden")) {
 				space.drawObject(value);
