@@ -2,7 +2,7 @@
 
 Starcommand is a space simulator written in Three.js. Explore space in the comfort of your chair.
 
-[demo](https://p5yb14d3.github.io/starexplorer/ "Starcommand").
+[demo](https://p5yb14d3.github.io/starcommand/ "Starcommand").
 
 # 
 
